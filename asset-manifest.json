@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shopping-cart/static/css/main.e5e1d24b.css",
-    "main.js": "/shopping-cart/static/js/main.28027394.js",
+    "main.js": "/shopping-cart/static/js/main.cd158e39.js",
     "static/media/glyphicons-halflings-regular.svg": "/shopping-cart/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
     "static/media/glyphicons-halflings-regular.ttf": "/shopping-cart/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
     "static/media/glyphicons-halflings-regular.woff": "/shopping-cart/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
@@ -10,10 +10,10 @@
     "static/media/logo.svg": "/shopping-cart/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/shopping-cart/index.html",
     "main.e5e1d24b.css.map": "/shopping-cart/static/css/main.e5e1d24b.css.map",
-    "main.28027394.js.map": "/shopping-cart/static/js/main.28027394.js.map"
+    "main.cd158e39.js.map": "/shopping-cart/static/js/main.cd158e39.js.map"
   },
   "entrypoints": [
     "static/css/main.e5e1d24b.css",
-    "static/js/main.28027394.js"
+    "static/js/main.cd158e39.js"
   ]
 }
